@@ -1,3 +1,3 @@
 layout: page
 title: "Shapefile of VN"
-permalink: /vnshapefilr
+permalink: /vnshapefile
